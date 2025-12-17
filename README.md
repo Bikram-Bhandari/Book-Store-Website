@@ -1,27 +1,19 @@
 
-# Youtube BT Solution Hub
-
-Free code HTML CSS Javascript and Free learning web developer 
-
-
-
-- [Detailed instructions on this project](https://www.youtube.com/@BT_Solution_Hub)
-
+Free code HTML CSS Javascript and Free web developer 
 
 ## Follow me for more free codes
 
 
 - [Website BT Book Store](https://btbookstore.netlify.app/)
- - [Youtube BT Solution Hub](https://www.youtube.com/@BT_Solution_Hub)
  - [Facebook Bikram Bhandari](https://www.facebook.com/BikramBhandari01)
- - [Website Bikram Bhandari](https://bikramb.netlify.app/)
+ - [Website Bikram Bhandari](https://bikramb.com.np)
 
 
 ## Built By
 
 This project is built and shared by
 
-- BT Solution Hub
+- Bikram Bhandari
 
 
 ## Feedback
