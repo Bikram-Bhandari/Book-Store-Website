@@ -18,9 +18,9 @@ This project is built and shared by
 
 ## Feedback
 
-If you have any feedback, please reach out to us at btsolutiomhub@gmail.com, Bickybhandari@gmail.com
+If you have any feedback, please reach out to us at  Bikramhandari670@gmail.com
 
 
 ## Tags
 
-Free code HTML CSS Javascript and Free learning
+Free code HTML CSS Javascript
